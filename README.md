@@ -1,4 +1,4 @@
-<h1 align="center">I'm Marawan Mahmoud</h1>
+<h1 align="center">I'm Marawan Saqr</h1>
 <h3 align="center">Front-End Developer From Egypt</h3>
 
 - 👨‍💻 All of my projects are available at "[https://my-portfolio-kohl-seven-11.vercel.app/](https://my-portfolio-nu-livid-87.vercel.app/)"
